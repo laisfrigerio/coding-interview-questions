@@ -6,7 +6,9 @@ Coding Interview Questions solved with Javascript 💡
 
 | Name | Description | Tag | Code |
 |---|---|---|---|
-| Balanced Parentheses | Check if an expression of parentheses is balanced or not | `Data Structure` `Stack` | - [Solution](./balanced-parentheses/bad-solution.js) - [Refactored solution](./balanced-parentheses/good-solution.js) |
+| Balanced Parentheses | Check if an expression of parentheses is balanced or not | `Data Structure` `Stack` |
+- [Solution](./balanced-parentheses/bad-solution.js)
+- [Refactored solution](./balanced-parentheses/good-solution.js) |
 
 ## 🛠️ Stack
 
