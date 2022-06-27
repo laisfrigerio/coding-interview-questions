@@ -1,0 +1,23 @@
+{
+  "name": "coding-interview-questions",
+  "version": "0.1.0",
+  "description": "Coding Interview Questions solved with Javascript 💡",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^28.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laisfrigerio/coding-interview-questions.git"
+  },
+  "keywords": [],
+  "author": "Lais Frigério",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laisfrigerio/coding-interview-questions/issues"
+  },
+  "homepage": "https://github.com/laisfrigerio/coding-interview-questions#readme"
+}
