@@ -1,5 +1,5 @@
 function isExpressionBalanced (expression) {
-    if (expression.length === 0 && expression.length % 2 === 0) {
+    if (expression.length === 0 || expression.length % 2 === 1) {
         return false
     }
 
