@@ -6,7 +6,7 @@ Given an expression containing different open and close parentheses, your task i
 - The opening bracket must be closed with the same type of closing bracket.
 
 <p align="center">
-  <a><img src="./examples-balanced-or-not.png" alt="4 exemplos de expressões: 2 balanceadas e 2 não balanceadas" title="4 exemplos de expressões: 2 balanceadas e 2 não balanceadas"></a>
+  <a><img src="./images/examples-balanced-or-not.png" alt="4 exemplos de expressões: 2 balanceadas e 2 não balanceadas" title="4 exemplos de expressões: 2 balanceadas e 2 não balanceadas"></a>
 </p>
 
 ## Solution
