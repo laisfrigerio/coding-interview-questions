@@ -6,7 +6,7 @@ Coding Interview Questions solved with Javascript 💡
 
 | Name | Description | Tag | Code |
 |---|---|---|---|
-| [Balanced Parentheses](./balanced-parentheses/README.md) | Check if an expression of parentheses is balanced or not | `Data Structure` `Stack` | - [Solution](./balanced-parentheses/code/bad-solution.js) </br> - [Refactored solution](./balanced-parentheses/code/good-solution.js) |
+| [Balanced Parentheses](./balanced-parentheses) | Check if an expression of parentheses is balanced or not | `Data Structure` `Stack` | - [Solution](./balanced-parentheses/code/bad-solution.js) </br> - [Refactored solution](./balanced-parentheses/code/good-solution.js) |
 
 ## 🛠️ Stack
 
@@ -26,11 +26,6 @@ Coding Interview Questions solved with Javascript 💡
     npm run test
     npm run test:coverage
 ```
-
-## 🚀 Referral links
-
-- [Check if given expression is balanced or not](https://www.techiedelight.com/check-given-expression-balanced-expression-not/)
-- [Stack Data Structure: Practice Problems and Interview Questions](https://medium.com/techie-delight/stack-data-structure-practice-problems-and-interview-questions-9f08a35a7f19)
 
 ## 👩 Author
 

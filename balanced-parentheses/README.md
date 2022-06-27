@@ -21,3 +21,8 @@ In this solution, we will use a stack data structure to evaluate an expression. 
 - If we get a closing bracket we will compare the top element.
 - If there is not a match of closing and opening brackets we can return False.
 - At last if the stack is empty, we can conclude that the expression is balanced.
+
+## 🚀 Referral links
+
+- [Check if given expression is balanced or not](https://www.techiedelight.com/check-given-expression-balanced-expression-not/)
+- [Stack Data Structure: Practice Problems and Interview Questions](https://medium.com/techie-delight/stack-data-structure-practice-problems-and-interview-questions-9f08a35a7f19)
