@@ -7,6 +7,7 @@ Coding Interview Questions solved with Javascript 💡
 | Name | Description | Tag | Code |
 |---|---|---|---|
 | [Balanced Parentheses](./balanced-parentheses) | Check if an expression of parentheses is balanced or not | `Data Structure` `Stack` | - [Solution](./balanced-parentheses/code/bad-solution.js) </br> - [Refactored solution](./balanced-parentheses/code/good-solution.js) |
+| [Binary Search](./binary-search) | Search for an element in a sorted list | `Binary Search` | - [Iterative Solution](./binary-search/code/iterative-solution.js) |
 
 ## 🛠️ Stack
 
